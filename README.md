@@ -12,6 +12,6 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 - CSS
 - GIT E Github
 
-  ## 🏷️ Layout
-  Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1360315496868719817).
-  É necessário ter uma conta no [Figma](https://www.figma.com).
+## 🏷️ Layout
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1360315496868719817).
+É necessário ter uma conta no [Figma](https://www.figma.com).
