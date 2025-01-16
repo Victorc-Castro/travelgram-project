@@ -3,7 +3,7 @@
 </p>    
 
 ## 💻 Projeto
-Esse é um projeto Web responsivo feito para com objetivo de aprofundar conhecimentos sobre HTML e CSS, com uso de variáveis, e flexbox para estilização.
+Esse é um projeto Web responsivo feito com objetivo de aprofundar conhecimentos sobre HTML e CSS, com uso de variáveis, e flexbox para estilização.
 
 ## 👩‍💻 Tecnologias
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
